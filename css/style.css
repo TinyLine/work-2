@@ -1,0 +1,41 @@
+.red{
+    max-width: 300px;
+    margin: 0 auto;
+    background-color: #e71616;
+    text-align: center;
+    padding: 15px;
+    border-radius: 4px;
+  }
+  .orange{
+    max-width: 300px;
+    margin: 0 auto;
+    background-color: #ff9900;
+    text-align: center;
+    padding: 15px;
+    border-radius: 4px;
+  }
+  .green{
+    max-width: 200px;
+    margin: 0 auto;
+    background-color: #24b917;
+    text-align: center;
+    padding: 15px;
+    border-radius: 4px;
+  }
+  .blue{
+    max-width: 200px;
+    margin: 0 auto;
+    background-color: #1689e7;
+    text-align: center;
+    padding: 15px;   
+    border-radius: 4px;
+  }
+  
+  .violet{
+    max-width: 200px;
+    margin: 0 auto;
+    background-color: #b616e7;
+    text-align: center;
+    padding: 15px;
+    border-radius: 4px;
+}
